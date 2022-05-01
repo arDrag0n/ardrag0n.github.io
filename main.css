@@ -23,3 +23,7 @@ a:visited {
 figure.dragon {
     float: left;
 }
+footer {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
